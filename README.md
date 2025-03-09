@@ -3,7 +3,6 @@
 ## Übersicht
 Dieses Programm konvertiert RFEM HTML-Dateien in DOCX-Format (Microsoft Word). Es kann sowohl neue Word-Dokumente erstellen als auch HTML-Inhalte in bestehende Word-Dokumente ab einer bestimmten Seite einfügen.
 
-![Programmansicht](https://via.placeholder.com/800x600)
 
 ## Funktionen
 - Konvertierung von HTML-Dateien in DOCX-Format
